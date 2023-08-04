@@ -1,5 +1,5 @@
 # Svelte To-Do App
-![Project Screenshot](https://github.com/edypnog/todolist-svelte/blob/main/static/Screenshot%202023-08-04%20200946.png)
+![Project Screenshot](https://github.com/edypnog/todolist-svelte/blob/main/static/Screenshot%202023-08-04%20200946.png?raw=true)
 
 This is a simple Todo app built with Svelte, the app allows users to create, manage, and track their daily tasks.
 
